@@ -1,6 +1,6 @@
 {
-  "name": "GasSaver",
-  "version": "1.0.0",
+  "name": "gas-saver",
+  "version": "1.0.1",
   "description": "",
   "main": "index1.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nguyenquangthang1997/thesis.git"
+    "url": "git+https://github.com/nguyenquangthang1997/GasSaver.git"
   },
   "author": "nguyenquangthang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nguyenquangthang1997/thesis/issues"
+    "url": "https://github.com/nguyenquangthang1997/GasSaver/issues"
   },
-  "homepage": "https://github.com/nguyenquangthang1997/thesis#readme",
+  "homepage": "https://github.com/nguyenquangthang1997/GasSaver#readme",
   "dependencies": {
     "@chainlink/contracts": "^0.2.1-beta.0",
     "@ethersproject/bytes": "^5.5.0",
