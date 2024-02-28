@@ -1,15 +1,12 @@
 {
   "name": "gas-saver",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nguyenquangthang1997/GasSaver.git"
-  },
+  "repository": "https://github.com/nguyenquangthang1997/GasSaver.git",
   "author": "nguyenquangthang",
   "license": "ISC",
   "bugs": {
